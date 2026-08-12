@@ -8,3 +8,24 @@ Com este material, busco:
 - Conhecer o método histórico-comparativo, usado por linguistas para provar parentesco entre línguas.
 
 - Mapear as principais famílias linguísticas do mundo indo-europeia, sino-tibetana, afro-asiática, nígero-congolesa, austronésia, entre outras e sua distribuição geográfica e número de falantes.
+
+
+## Fontes
+Fontes selecionadas e carregadas no NotebookLM como base do caderno:
+
+_Fontes de vídeo_
+
+https://www.youtube.com/watch?v=w5gBQ7RDx1U
+
+https://www.youtube.com/watch?v=t9QRk8xgabs
+
+_Fontes em sites_
+
+https://pt.smartling.com/blog/world-languages-and-their-linguistic-typology
+
+https://www.ebsco.com/research-starters/language-and-linguistics/comparative-linguistics
+
+
+## Exemplos de registro
+
+
