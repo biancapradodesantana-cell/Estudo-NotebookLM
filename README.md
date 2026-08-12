@@ -28,4 +28,8 @@ https://www.ebsco.com/research-starters/language-and-linguistics/comparative-lin
 
 ## Exemplos de registro
 
+Pergunta que o próprio sistema sugeriu <img width="1027" height="733" alt="Image" src="https://github.com/user-attachments/assets/decc07ca-89ff-4411-ba36-f0ad665f3546" />
+
+
+
 
